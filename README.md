@@ -10,7 +10,7 @@ git clone github.com/alper1976/danube_indicators.git
 ```
 
 ## Authors and acknowledgment
-Scripts were written by Alexander Eiler, Laurent Fontaine and Jing Wei.
+Scripts were written by Laurent Fontaine, Lorenzo Pin and Alexander Eiler.
 
 ## License
 This Code is subject to the terms of the MIT License. 
@@ -19,10 +19,10 @@ This Code is subject to the terms of the MIT License.
 Results from this project have been submitted to a peer-reviewed scientifc journal.
 
 ## Folders and code
-The analyses code is divided into two folders "metags" and "rRNA_amplicons" representing the code to analyze whole shotgun metagenomic and SSU rRNA gene amplicon data, respectively.
+The analyses code is divided into two folders "raw_data" and "stats" representing the code to analyze raw sequencing data and perform statistical analysis, respectively.
 
-### metadata.R
-This represents the R code to perform the statistical analysis and data visualization on the metadata such as nutrient and gas concentrations along the chronosequences.
+### metadata
+This represents the data from the ICPDR that were used in this manuscript. Data ws obtained from http://www.icpdr.org/wq-db/) ![image](https://github.com/alper1976/danube_indicators/assets/4928654/088b5346-b352-486b-8441-26907157c1c7)
 
 ## released version 1.0.0
 
