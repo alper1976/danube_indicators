@@ -21,8 +21,14 @@ Results from this project have been submitted to a peer-reviewed scientifc journ
 ## Folders and code
 The analyses code is divided into two folders "raw_data" and "stats" representing the code to analyze raw sequencing data and perform statistical analysis, respectively.
 
-### metadata
+### metadata.tsv
 This represents the data from the ICPDR that were used in this manuscript. Data was obtained from http://www.icpdr.org/wq-db
+
+### ASV_table.tsv
+This represents the Amplicon sequence variants (ASV) table obtained from the raw sequencing data using cutadapt and dada2.
+
+### Taxonomy.tsv
+This represents the taxonomic annotations for the amplicon sequence variants (ASV) obtained from the raw sequencing data using cutadapt and dada2.
 
 ## released version 1.0.0
 
