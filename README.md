@@ -1,6 +1,6 @@
 # danube_indicators
 
-Analysis of microbiome data for water quality status classification using machine learning. Using microbial metabarcoding data and machine learning we identified indicators for water quality status assessement in the Danube river. This repository includes scripts to run cutadapt (https://github.com/marcelm/cutadapt), dada2 (https://github.com/benjjneb/dada2) and statistical analyses for developing classifiers for water quality ased on microbial metabarcoding data.
+Analysis of microbiome data for water quality status classification using machine learning. Using microbial metabarcoding data and machine learning we identified indicators for water quality status assessement in the Danube river. This repository includes scripts to run cutadapt (https://github.com/marcelm/cutadapt), dada2 (https://github.com/benjjneb/dada2) and statistical analyses for developing classifiers for water quality based on microbial metabarcoding data.
 
 ## pull repository
 
