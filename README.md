@@ -22,7 +22,7 @@ Results from this project have been submitted to a peer-reviewed scientifc journ
 The analyses code is divided into two folders "raw_data" and "stats" representing the code to analyze raw sequencing data and perform statistical analysis, respectively.
 
 ### metadata
-This represents the data from the ICPDR that were used in this manuscript. Data ws obtained from http://www.icpdr.org/wq-db ![image](https://github.com/alper1976/danube_indicators/assets/4928654/088b5346-b352-486b-8441-26907157c1c7)
+This represents the data from the ICPDR that were used in this manuscript. Data ws obtained from http://www.icpdr.org/wq-db
 
 ## released version 1.0.0
 
