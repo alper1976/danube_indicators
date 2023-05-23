@@ -19,7 +19,7 @@ This Code is subject to the terms of the MIT License.
 Results from this project have been submitted to a peer-reviewed scientifc journal.
 
 ## Folders and code
-The analyses code is divided into two folders "raw_data" and "stats" representing the code to analyze raw sequencing data and perform statistical analysis, respectively.
+The analyses code is divided into two folders "raw_data" and "stats" representing the code to analyze raw sequencing data and perform statistical analysis, respectively. The "Data" folder contains the data input and output of the spatiotemporal analysis.
 
 ### metadata.tsv
 This represents the data from the ICPDR that were used in this manuscript. Data was obtained from http://www.icpdr.org/wq-db
